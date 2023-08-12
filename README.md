@@ -1,1 +1,1 @@
-# AWS_ec2_automation_using_finger_detection
+# AWS_EC2_Automation_Using_Finger_Detection
